@@ -1,4 +1,4 @@
-<img width="635" height="451" alt="image" src="https://github.com/user-attachments/assets/e62dea3d-14bd-4aa1-961d-94b484f2345a" /># DIPT_EXP_2
+# DIPT_EXP_2
 # Image Capture and Video Processing Using OpenCV
 
 ---
